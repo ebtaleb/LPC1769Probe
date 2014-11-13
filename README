@@ -1,0 +1,33 @@
+Mode regular:
+- Sensor sampling (DONE)
+- ST switch
+- Temp alarm
+- UART report
+- Indicator regular (oled or led arr)
+
+Mode Relay:
+- Sensor sampling
+- UART relay + report
+- Indicator relay (oled arr)
+
+
+Sensors
+
+* LS
+- sample every LS_ST
+- switch ST if bright/dim in Regular Mode
+
+* ACC
+- sample zAcc
+- calc variance
+
+* TS
+- sample Temp sensor (DONE)
+- sound alarm in regular mode (sound alarm DONE)
+
+
+Hints
+- Interrupts
+- SysTick
+- Sensor timing
+

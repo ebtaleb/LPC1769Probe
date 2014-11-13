@@ -1,0 +1,722 @@
+Archive member included because of file (symbol)
+
+/home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                              ./src/cr_startup_lpc17.o (SystemInit)
+/home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+                              ./src/main.o (GPIO_SetDir)
+/home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+                              ./src/main.o (PINSEL_ConfigPin)
+/home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                              ./src/main.o (Timer0_Wait)
+/home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+                              /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o) (CLKPWR_SetPCLKDiv)
+/home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+                              /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o) (check_failed)
+/usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+                              /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o) (__aeabi_uldivmod)
+/usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(bpabi.o)
+                              /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+/usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_divdi3.o)
+                              /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(bpabi.o) (__divdi3)
+/usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_udivdi3.o)
+                              /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(bpabi.o) (__udivdi3)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc17.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc17.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc17.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .debug_macro   0x00000000      0x856 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x44 ./src/main.o
+ .debug_macro   0x00000000      0x209 ./src/main.o
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .text          0x00000000        0x0 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x00000000        0x0 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000      0x184 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x1c /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x2c7 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text          0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .data          0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .bss           0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordGetPointer
+                0x00000000       0x3c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteGetPointer
+                0x00000000       0x3c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_SetDir
+                0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_SetValue
+                0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ClearValue
+                0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ReadValue
+                0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_SetMask
+                0x00000000       0x20 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetDir
+                0x00000000       0x40 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetMask
+                0x00000000       0x40 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetValue
+                0x00000000       0x18 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordClearValue
+                0x00000000       0x18 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordReadValue
+                0x00000000       0x1c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetDir
+                0x00000000       0x2c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetMask
+                0x00000000       0x30 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetValue
+                0x00000000       0x18 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteClearValue
+                0x00000000       0x18 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteReadValue
+                0x00000000       0x20 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x850 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x1c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x22 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x10 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x122 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x5b9 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x7b7 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x2c7 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x63 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .text          0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .data          0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .bss           0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .text.PINSEL_ConfigTraceFunc
+                0x00000000       0x24 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .text.PINSEL_SetI2C0Pins
+                0x00000000       0x14 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x850 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x1c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x22 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x10 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x122 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x5b9 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x7b7 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x2c7 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x63 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x143 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .text          0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .data          0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .bss           0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_GetIntCaptureStatus
+                0x00000000       0x58 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ClearIntCapturePending
+                0x00000000       0x50 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ConfigStructInit
+                0x00000000       0x10 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_DeInit
+                0x00000000       0x84 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ResetCounter
+                0x00000000       0x44 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ConfigCapture
+                0x00000000       0x8c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_GetCaptureValue
+                0x00000000       0x4c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x850 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x1c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x22 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x10 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x122 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x5b9 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x7b7 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x2c7 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x63 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0xcb /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text          0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .data          0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .bss           0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_Sleep
+                0x00000000       0x10 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_DeepSleep
+                0x00000000       0x1c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_PowerDown
+                0x00000000       0x1c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_DeepPowerDown
+                0x00000000       0x1c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x850 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x1c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x22 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x10 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x122 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x5b9 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x7b7 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x2c7 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x63 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0x8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .text          0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .data          0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .bss           0x00000000        0x0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00000000      0x850 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00000000       0x10 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00000000      0x122 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00000000      0x5b9 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_udivdi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc17.o
+LOAD ./src/main.o
+LOAD /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a
+LOAD /home/jmbto/workspace/Lib_EaBaseBoard/Debug/libLib_EaBaseBoard.a
+LOAD /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a
+START GROUP
+LOAD /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a
+LOAD /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a
+LOAD /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libm.a
+LOAD /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a
+END GROUP
+                0x00080000                __top_MFlash512 = 0x80000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x20084000                __top_RamAHB32 = 0x20084000
+
+.text           0x00000000     0x1120
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc17.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x1128 LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x40 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x1128 LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000040 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x0 SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ *(.text*)
+ .text.ResetISR
+                0x000000f4       0x5c ./src/cr_startup_lpc17.o
+                0x000000f4                ResetISR
+ .text.NMI_Handler
+                0x00000150        0x8 ./src/cr_startup_lpc17.o
+                0x00000150                NMI_Handler
+ .text.HardFault_Handler
+                0x00000158        0x8 ./src/cr_startup_lpc17.o
+                0x00000158                HardFault_Handler
+ .text.MemManage_Handler
+                0x00000160        0x8 ./src/cr_startup_lpc17.o
+                0x00000160                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000168        0x8 ./src/cr_startup_lpc17.o
+                0x00000168                BusFault_Handler
+ .text.UsageFault_Handler
+                0x00000170        0x8 ./src/cr_startup_lpc17.o
+                0x00000170                UsageFault_Handler
+ .text.SVCall_Handler
+                0x00000178        0x8 ./src/cr_startup_lpc17.o
+                0x00000178                SVCall_Handler
+ .text.DebugMon_Handler
+                0x00000180        0x8 ./src/cr_startup_lpc17.o
+                0x00000180                DebugMon_Handler
+ .text.PendSV_Handler
+                0x00000188        0x8 ./src/cr_startup_lpc17.o
+                0x00000188                PendSV_Handler
+ .text.SysTick_Handler
+                0x00000190        0x8 ./src/cr_startup_lpc17.o
+                0x00000190                SysTick_Handler
+ .text.IntDefaultHandler
+                0x00000198        0x8 ./src/cr_startup_lpc17.o
+                0x00000198                TIMER2_IRQHandler
+                0x00000198                RIT_IRQHandler
+                0x00000198                I2C0_IRQHandler
+                0x00000198                USBActivity_IRQHandler
+                0x00000198                PWM1_IRQHandler
+                0x00000198                I2C1_IRQHandler
+                0x00000198                EINT2_IRQHandler
+                0x00000198                UART1_IRQHandler
+                0x00000198                EINT3_IRQHandler
+                0x00000198                CANActivity_IRQHandler
+                0x00000198                TIMER3_IRQHandler
+                0x00000198                UART0_IRQHandler
+                0x00000198                IntDefaultHandler
+                0x00000198                PLL0_IRQHandler
+                0x00000198                CAN_IRQHandler
+                0x00000198                PLL1_IRQHandler
+                0x00000198                SSP0_IRQHandler
+                0x00000198                I2S_IRQHandler
+                0x00000198                I2C2_IRQHandler
+                0x00000198                RTC_IRQHandler
+                0x00000198                TIMER0_IRQHandler
+                0x00000198                SPI_IRQHandler
+                0x00000198                EINT1_IRQHandler
+                0x00000198                TIMER1_IRQHandler
+                0x00000198                UART2_IRQHandler
+                0x00000198                ADC_IRQHandler
+                0x00000198                SSP1_IRQHandler
+                0x00000198                USB_IRQHandler
+                0x00000198                BOD_IRQHandler
+                0x00000198                WDT_IRQHandler
+                0x00000198                QEI_IRQHandler
+                0x00000198                EINT0_IRQHandler
+                0x00000198                DMA_IRQHandler
+                0x00000198                UART3_IRQHandler
+                0x00000198                MCPWM_IRQHandler
+                0x00000198                ENET_IRQHandler
+ .text.playNote
+                0x000001a0       0x64 ./src/main.o
+ .text.getNote  0x00000204       0x50 ./src/main.o
+ .text.getDuration
+                0x00000254       0x34 ./src/main.o
+ .text.getPause
+                0x00000288       0x44 ./src/main.o
+ .text.playSong
+                0x000002cc       0x78 ./src/main.o
+ .text.init_GPIO
+                0x00000344       0x84 ./src/main.o
+ .text.main     0x000003c8       0x34 ./src/main.o
+                0x000003c8                main
+ .text.SystemInit
+                0x000003fc       0xec /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                0x000003fc                SystemInit
+ .text.GPIO_GetPointer
+                0x000004e8       0x3c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .text.GPIO_SetDir
+                0x00000524       0x20 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+                0x00000524                GPIO_SetDir
+ .text.GPIO_SetValue
+                0x00000544       0x10 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+                0x00000544                GPIO_SetValue
+ .text.GPIO_ClearValue
+                0x00000554       0x10 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+                0x00000554                GPIO_ClearValue
+ .text.GPIO_ReadValue
+                0x00000564       0x10 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+                0x00000564                GPIO_ReadValue
+ .text.PINSEL_SetPinFunc
+                0x00000574       0x38 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+                0x00000574                PINSEL_SetPinFunc
+ .text.PINSEL_SetResistorMode
+                0x000005ac       0x34 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+                0x000005ac                PINSEL_SetResistorMode
+ .text.PINSEL_SetOpenDrainMode
+                0x000005e0       0x30 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+                0x000005e0                PINSEL_SetOpenDrainMode
+ .text.PINSEL_ConfigPin
+                0x00000610       0x24 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+                0x00000610                PINSEL_ConfigPin
+ .text.TIM_GetPClock
+                0x00000634       0x38 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                0x00000634                TIM_GetPClock
+ .text.TIM_ConverUSecToVal
+                0x0000066c       0x1c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                0x0000066c                TIM_ConverUSecToVal
+ .text.TIM_ConverPtrToTimeNum
+                0x00000688       0x38 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                0x00000688                TIM_ConverPtrToTimeNum
+ .text.TIM_GetIntStatus
+                0x000006c0       0x58 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                0x000006c0                TIM_GetIntStatus
+ .text.TIM_ClearIntPending
+                0x00000718       0x4c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                0x00000718                TIM_ClearIntPending
+ .text.TIM_Init
+                0x00000764       0xfc /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                0x00000764                TIM_Init
+ .text.TIM_Cmd  0x00000860       0x4c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                0x00000860                TIM_Cmd
+ .text.TIM_ConfigMatch
+                0x000008ac       0xd4 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                0x000008ac                TIM_ConfigMatch
+ .text.Timer0_Wait
+                0x00000980       0x68 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                0x00000980                Timer0_Wait
+ .text.Timer0_us_Wait
+                0x000009e8       0x64 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                0x000009e8                Timer0_us_Wait
+ .text.CLKPWR_SetPCLKDiv
+                0x00000a4c       0x60 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x00000a4c                CLKPWR_SetPCLKDiv
+ .text.CLKPWR_GetPCLKSEL
+                0x00000aac       0x24 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x00000aac                CLKPWR_GetPCLKSEL
+ .text.CLKPWR_GetPCLK
+                0x00000ad0       0x28 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x00000ad0                CLKPWR_GetPCLK
+ .text.CLKPWR_ConfigPPWR
+                0x00000af8       0x34 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x00000af8                CLKPWR_ConfigPPWR
+ .text.check_failed
+                0x00000b2c        0x4 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+                0x00000b2c                check_failed
+ .text          0x00000b30       0x2c /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+                0x00000b30                __aeabi_uldivmod
+ .text          0x00000b5c       0x60 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(bpabi.o)
+                0x00000b5c                __gnu_ldivmod_helper
+                0x00000b8c                __gnu_uldivmod_helper
+ .text          0x00000bbc        0x4 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_dvmd_tls.o)
+                0x00000bbc                __aeabi_ldiv0
+                0x00000bbc                __aeabi_idiv0
+ .text          0x00000bc0      0x2a0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_divdi3.o)
+                0x00000bc0                __divdi3
+ .text          0x00000e60      0x290 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_udivdi3.o)
+                0x00000e60                __udivdi3
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata        0x000010f0       0x18 ./src/main.o
+ .rodata.str1.4
+                0x00001108       0x18 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                0x00001120                . = ALIGN (0x4)
+
+.glue_7         0x00001120        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00001120        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00001120        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00001120        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00001120        0x0
+ .iplt          0x00000000        0x0 ./src/cr_startup_lpc17.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00001120                __exidx_start = .
+
+.ARM.exidx      0x00001120        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00001120        0x8 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x00001128        0x0 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x00001128                __exidx_end = .
+                0x00001128                _etext = .
+
+.rel.dyn        0x00001128        0x0
+ .rel.iplt      0x00000000        0x0 ./src/cr_startup_lpc17.o
+
+.data_RAM2      0x2007c000        0x0 load address 0x00001128
+ FILL mask 0xff
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000       0x40 load address 0x00001128
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data          0x10000000       0x3c ./src/main.o
+ .data          0x1000003c        0x4 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                0x1000003c                SystemCoreClock
+                0x10000040                . = ALIGN (0x4)
+                0x10000040                _edata = .
+
+.igot.plt       0x10000040        0x0 load address 0x00001168
+ .igot.plt      0x00000000        0x0 ./src/cr_startup_lpc17.o
+
+.bss_RAM2       0x2007c000        0x0
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.bss            0x10000040        0x0
+                0x10000040                _bss = .
+ *(.bss*)
+ *(COMMON)
+                0x10000040                . = ALIGN (0x4)
+                0x10000040                _ebss = .
+                0x10000040                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x10000040        0x0
+                0x10000040                _noinit = .
+ *(.noinit*)
+                0x10000040                . = ALIGN (0x4)
+                0x10000040                _end_noinit = .
+                0x10000040                PROVIDE (_pvHeapStart, .)
+                0x10008000                PROVIDE (_vStackTop, (__top_RamLoc32 - 0x0))
+OUTPUT(demo_CKT_GPIO.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x2b6a
+ .debug_info    0x00000000      0x1b1 ./src/cr_startup_lpc17.o
+ .debug_info    0x000001b1      0x290 ./src/main.o
+ .debug_info    0x00000441      0x2e3 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_info    0x00000724      0xbbc /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_info    0x000012e0      0x470 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_info    0x00001750      0xd66 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_info    0x000024b6      0x5f1 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_info    0x00002aa7       0xc3 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+
+.debug_abbrev   0x00000000      0xa7d
+ .debug_abbrev  0x00000000       0xb9 ./src/cr_startup_lpc17.o
+ .debug_abbrev  0x000000b9      0x113 ./src/main.o
+ .debug_abbrev  0x000001cc       0xe6 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_abbrev  0x000002b2      0x1d3 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_abbrev  0x00000485      0x156 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_abbrev  0x000005db      0x280 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_abbrev  0x0000085b      0x1b6 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_abbrev  0x00000a11       0x6c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+
+.debug_aranges  0x00000000      0x310
+ .debug_aranges
+                0x00000000       0x70 ./src/cr_startup_lpc17.o
+ .debug_aranges
+                0x00000070       0x50 ./src/main.o
+ .debug_aranges
+                0x000000c0       0x28 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_aranges
+                0x000000e8       0xc8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_aranges
+                0x000001b0       0x48 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_aranges
+                0x000001f8       0xa0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_aranges
+                0x00000298       0x58 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_aranges
+                0x000002f0       0x20 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+
+.debug_ranges   0x00000000      0x290
+ .debug_ranges  0x00000000       0x60 ./src/cr_startup_lpc17.o
+ .debug_ranges  0x00000060       0x40 ./src/main.o
+ .debug_ranges  0x000000a0       0x18 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_ranges  0x000000b8       0xb8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_ranges  0x00000170       0x38 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_ranges  0x000001a8       0x90 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_ranges  0x00000238       0x48 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_ranges  0x00000280       0x10 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+
+.debug_macro    0x00000000     0x3e18
+ .debug_macro   0x00000000       0x58 ./src/cr_startup_lpc17.o
+ .debug_macro   0x00000058      0x856 ./src/cr_startup_lpc17.o
+ .debug_macro   0x000008ae       0x16 ./src/cr_startup_lpc17.o
+ .debug_macro   0x000008c4       0x44 ./src/cr_startup_lpc17.o
+ .debug_macro   0x00000908      0x209 ./src/cr_startup_lpc17.o
+ .debug_macro   0x00000b11       0x9e ./src/main.o
+ .debug_macro   0x00000baf       0x1c ./src/main.o
+ .debug_macro   0x00000bcb       0x22 ./src/main.o
+ .debug_macro   0x00000bed      0x7b7 ./src/main.o
+ .debug_macro   0x000013a4      0x2c7 ./src/main.o
+ .debug_macro   0x0000166b       0x63 ./src/main.o
+ .debug_macro   0x000016ce      0x143 ./src/main.o
+ .debug_macro   0x00001811       0x46 ./src/main.o
+ .debug_macro   0x00001857       0xe9 ./src/main.o
+ .debug_macro   0x00001940      0x113 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00001a53      0x850 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x000022a3       0x10 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x000022b3      0x122 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x000023d5      0x5b9 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000298e      0x7d5 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00003163       0x83 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x000031e6       0x40 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00003226       0xcb /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x000032f1       0x7a /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x0000336b       0x95 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00003400       0xe3 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x000034e3      0x2fe /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x000037e1      0x149 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x0000392a       0x7a /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x000039a4      0x2f8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00003c9c       0x5a /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00003cf6       0x5d /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00003d53       0xc5 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+
+.debug_line     0x00000000     0x15ab
+ .debug_line    0x00000000      0x2e7 ./src/cr_startup_lpc17.o
+ .debug_line    0x000002e7      0x33d ./src/main.o
+ .debug_line    0x00000624      0x1e1 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_line    0x00000805      0x3a3 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_line    0x00000ba8      0x220 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_line    0x00000dc8      0x415 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_line    0x000011dd      0x26c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_line    0x00001449      0x162 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+
+.debug_str      0x00000000     0xba0d
+ .debug_str     0x00000000     0x2ea3 ./src/cr_startup_lpc17.o
+                               0x2fe8 (size before relaxing)
+ .debug_str     0x00002ea3     0x50fb ./src/main.o
+                               0x7fb9 (size before relaxing)
+ .debug_str     0x00007f9e     0x1bc5 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                               0x7ec3 (size before relaxing)
+ .debug_str     0x00009b63      0x4c7 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+                               0x8316 (size before relaxing)
+ .debug_str     0x0000a02a      0x23c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+                               0x835a (size before relaxing)
+ .debug_str     0x0000a266     0x169c /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+                               0xa0ca (size before relaxing)
+ .debug_str     0x0000b902       0xe6 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+                               0x90b7 (size before relaxing)
+ .debug_str     0x0000b9e8       0x25 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+                               0x3def (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./src/cr_startup_lpc17.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/main.o
+ .comment       0x00000000       0x71 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x00000000       0x71 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .comment       0x00000000       0x71 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .comment       0x00000000       0x71 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .comment       0x00000000       0x71 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .comment       0x00000000       0x71 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ./src/cr_startup_lpc17.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/main.o
+ .ARM.attributes
+                0x00000066       0x33 /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x00000099       0x33 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .ARM.attributes
+                0x000000cc       0x33 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .ARM.attributes
+                0x000000ff       0x33 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .ARM.attributes
+                0x00000132       0x33 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .ARM.attributes
+                0x00000165       0x33 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .ARM.attributes
+                0x00000198       0x1d /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000001b5       0x2d /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x000001e2       0x1d /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000001ff       0x2d /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x0000022c       0x2d /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_udivdi3.o)
+
+.debug_frame    0x00000000      0x844
+ .debug_frame   0x00000000      0x120 ./src/cr_startup_lpc17.o
+ .debug_frame   0x00000120       0xe4 ./src/main.o
+ .debug_frame   0x00000204       0x3c /home/jmbto/workspace/Lib_CMSISv1p30_LPC17xx/Debug/libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_frame   0x00000240      0x238 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_frame   0x00000478       0x88 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_frame   0x00000500      0x1c4 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_frame   0x000006c4       0xa0 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_frame   0x00000764       0x20 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_frame   0x00000784       0x58 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(bpabi.o)
+ .debug_frame   0x000007dc       0x34 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_divdi3.o)
+ .debug_frame   0x00000810       0x34 /usr/local/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a(_udivdi3.o)
+
+.debug_loc      0x00000000     0x1381
+ .debug_loc     0x00000000      0xa60 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_loc     0x00000a60      0x1c6 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_loc     0x00000c26      0x5b3 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_timer.o)
+ .debug_loc     0x000011d9      0x1a8 /home/jmbto/workspace/Lib_MCU/Debug/libLib_MCU.a(lpc17xx_clkpwr.o)
