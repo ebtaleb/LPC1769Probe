@@ -1,33 +1,36 @@
+This repository contains code related to the programming of the
+LPC1769 board.
+
+LPCXpresso is required to run that code.
+
+- WPN-SN is a project involving the creation of a probe sampling different
+measurements (light, temperature, movement) and send them to a computer using an XBee shield.
+- DeviceDemos contains various projects that helps to be acquainted with
+the libraries APIs and the devices present in the board.
+
 Mode regular:
-- Sensor sampling (DONE)
-- ST switch
+- Sensor sampling
+- Sampling rate change
 - Temp alarm
 - UART report
-- Indicator regular (oled or led arr)
+- Indicator regular (oled screen or led array)
 
 Mode Relay:
 - Sensor sampling
 - UART relay + report
-- Indicator relay (oled arr)
-
+- Indicator relay (using the oled screen)
 
 Sensors
 
-* LS
-- sample every LS_ST
-- switch ST if bright/dim in Regular Mode
+* Light Sensor
+- sample light measurement every LS_ST
+- change sampling rate if the light is bright/dim in Regular Mode
 
-* ACC
+* Accelerometer
 - sample zAcc
-- calc variance
+- compute variance
 
-* TS
+* Temperature sensor
 - sample Temp sensor (DONE)
 - sound alarm in regular mode (sound alarm DONE)
-
-
-Hints
-- Interrupts
-- SysTick
-- Sensor timing
 
